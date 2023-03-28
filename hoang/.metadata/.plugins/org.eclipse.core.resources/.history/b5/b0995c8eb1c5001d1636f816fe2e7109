@@ -1,0 +1,117 @@
+package bien;
+
+class Television{
+	int channel;
+	int volumeChannel =1;
+	boolean isOn = false;
+	public Television(int channel , int volumeChannel, boolean isOn) {
+		System.out.println("This is a Constructor");
+		this.channel = channel;
+		this.volumeChannel = volumeChannel;
+		this.isOn = isOn;
+	}
+	void showDetail() {
+		System.out.println("Detail object : Channel: " + this.channel +", volumeLevel: "+this.volumeChannel+ ", isOn: "+this.isOn);
+	}
+}
+class Student {
+	private int studentId;
+	private String firstName;
+	private String lasName;
+//	HÀM SETTER 
+	void setStudentId(int studentId) {
+		this.studentId = studentId;
+	}
+	void setFirstName(String newFirstName) {
+		this.firstName= newFirstName;
+	}
+}
+public class huyhoanana {
+	public static void main(String[] args) {
+//		Television tv = new Television(2,3,true);
+//		tv.showDetail();
+		
+		Student student = new Student();
+		student.setFirstName("Nguyen");
+		student.setStudentId(12);
+		
+	}
+	public static void LOTTERY(String[] args) {
+//		QUAY SỐ TRÚNG THƯỞNG
+		//RANDOM 1 SỐ NGẪU NHIÊN
+		int lotterNumber = (int) (Math.random() *100);
+		// IN RA SỐ HÀNG CHỤC VÀ HÀNG ĐƠN VỊ
+		int donvi = lotterNumber %10;
+		int chuc = lotterNumber/10;
+		System.out.printf("Lottery number : %d , chuc : %d, donvi %d, "
+				,lotterNumber,chuc,donvi);
+		// Phía người chơi
+		int playerNumber =52;
+		//số hàng chục và đơn vị của người chơi
+		if (playerNumber == lotterNumber) {
+			System.out.printf("Bạn đã trúng 10000");
+		} else if((playerNumber %10 == donvi) || (playerNumber/10 == chuc)) {
+			System.out.printf("Bạn đã trúng 5000");
+		} else {
+			System.out.print("CHÚC BẠN MAY MẮN LẦN SAU");
+		}
+	}
+	public static void LeapYear(String[] args) {
+		// LEAP YEAR
+		int year = 2012;
+		boolean isLeapYear = ((year %4 == 0) && (year %100 !=0) ) || (year %400 == 0);
+		if (isLeapYear) {
+			System.out.printf(year +" là năm nhuận");
+		} else {
+			System.out.printf(year + " không là năm nhuận");
+		}
+		
+	}
+	public static void ifcaseswitch(String[] args) {
+		int month = 2;
+		String monthString ="";
+		switch(month) {
+		case 1: 
+			monthString = "January";
+			break;
+		case 2: 
+			monthString = "February"; 
+			break;
+		case 3: 
+			monthString = "April"; 
+			break;
+		case 4: 
+			monthString = "March"; 
+			break;
+		case 5: 
+			monthString = "May"; 
+			break;
+		case 6: 
+			monthString = "February"; 
+			break;
+		}
+		System.out.printf("monthString = " + monthString);
+	}
+	static float getCostOfShipping(float weight) {
+		if (weight > 0 && weight <=1) {
+			return 3.5f;
+		}
+		return -1;
+	}
+	public static void main2(String[] args) {
+//		float costOfShipping = getCostOfShipping(0.25f);
+//		if (costOfShipping> 0) {
+//			System.out.println("costOfShipping = " + costOfShipping);
+//		}
+//		vòng for  bảng cửu chương 
+	
+		for (int i =0 ; i<=9; i++)
+			System.out.printf("%2d",i);
+		for (int i = 0 ; i<=9; i++) {
+			System.out.println("xxxxxxxxxx");
+			for (int j = 0; j<=9 ; j++) {
+				System.out.printf("%2d x %2d = %2d \n",i ,j , i*j);
+			}
+		}
+	}
+}
