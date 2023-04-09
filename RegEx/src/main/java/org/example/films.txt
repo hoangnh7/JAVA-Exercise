@@ -1,0 +1,506 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="vi" lang="vi">
+<!--       _ _
+          (^.^)< (KRAW)
+		--(..)--
+         (__)
+	    /(..)\
+ ~~~~~~~~~~~~~~~~~~-->
+<head>
+<title>Phim Hay | Phim HD Vietsub | Xem Phim Online | Xem Phim Nhanh | Mọt Phim - Motphim</title>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"/>
+<meta name="title" content="Phim Hay | Phim HD Vietsub | Xem Phim Online | Xem Phim Nhanh | Mọt Phim - Motphim" />
+<meta name="revisit-after" content="1 days" />
+<meta name="robots" content="index,follow" />
+<meta property="fb:app_id" content="711081303025670" />
+<meta property="og:site_name" content="MotChill" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://motchill.tv/" />
+<meta property="og:title" content="Phim Hay | Phim HD Vietsub | Xem Phim Online | Xem Phim Nhanh | Mọt Phim - Motphim" />
+<meta property="og:description" content="Xem phim hay nhất 2023 cập nhật nhanh nhất, Xem Phim Online HD Vietsub - Thuyết Minh tốt trên nhiều thiết bị." />
+<meta name="description" content="Xem phim hay nhất 2023 cập nhật nhanh nhất, Xem Phim Online HD Vietsub - Thuyết Minh tốt trên nhiều thiết bị." />
+<meta name="keywords" content="Phim, xem phim, xem phim online, phim online, xem phim hd, phim vietsub, phim thuyet minh" />
+<meta name="csrf-token" content="dmkveUg2Y1d0cmVUdTdLUCs0NEtrQzZobTU2ekpVWkc5eG01blppbFBvSDFhYVJ5djViRVlwTWlCanNrRmEwSw==">
+<link rel="stylesheet" type="text/css" href="/theme/css/owl.carousel.css" /><link rel="canonical" href="https://motchill.tv/" /><link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" /><link href="https://fonts.googleapis.com/css?family=Roboto:400,300,500" rel="stylesheet" type="text/css"><link rel="stylesheet" type="text/css" href="/theme/css/font-face.css?v=1.3.1" /><link rel="stylesheet" type="text/css" href="/theme/css/font-awesome.css"/><link rel="stylesheet" type="text/css" href="/theme/css/bootstrap.min.css"/><link rel="stylesheet" type="text/css" href="/theme/css/jquery-ui.min.css"/><link rel="stylesheet" type="text/css" href="/theme/css/default.css?v=0.3.9"/><link rel="stylesheet" type="text/css" href="/theme/css/styles.css?v=1.1.9"/><link rel="stylesheet" type="text/css" href="/theme/css/responsive.css?v=1.0.5"/><script type="text/javascript" src="/theme/js/jquery.min.js"></script><script type="text/javascript" src="/theme/js/jquery.slimscroll.min.js"></script><script type="text/javascript" src="/theme/js/bootstrap2.min.js"></script><script type="text/javascript" src="/theme/js/jquery-ui.min.js"></script><script type="text/javascript" src="/theme/js/jquery.lazyload.min.js"></script><script type="text/javascript" src="/theme/js/jquery.core.min.js"></script><script type="text/javascript" src="/theme/js/actions.js?_v=1.0.0"></script><script type="text/javascript" src="/theme/js/functions.js?v=2.0.1"></script><script type="text/javascript" src="/theme/js/js.cookie.js?v=2.1"></script>
+<script>var DC_URL = 'https://dc.mpapis.xyz';</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-126638761-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-126638761-1');
+</script>
+<script type="text/javascript" src="https://ax.mpapis.xyz/tags/js?id=motchill"></script>
+<script type="text/javascript" async="false" src="/theme/js/efw.js?v2.0.1"></script>
+<script type="text/javascript" src="/theme/js/facebook.sdk.js?3.0.2"></script>
+<style>
+body, html {
+    background-color: #02080F;
+}
+#header {
+    background: #333333;
+}
+.main-menu {
+    background: #2d2d2d;
+}
+.main-menu .menu-item.active>a, .main-menu .menu-item a:hover {
+    color: #c58560;
+}
+.title-box .tophot,.right-content .block .caption {
+    color: #da966e;
+}
+.main-menu .menu-item .sub-menu {
+    background-color: #2d2d2d;
+}
+.list-films .item .icon-play,.list-films .label-quality {
+    background: #522e75;
+}
+.list-films .label-quality:after {
+    border-left: 10px solid #522e75;
+}
+#film_hot .item .label, #film_related .item .label, .film-new .item .label {
+    background: #A3765D;
+    border-bottom: 2px solid #96674f
+}
+.list-films.film-new .item .name {
+    background: #181818;
+}
+.list-film li:nth-child(even) {
+    background: rgb(24 24 24);
+}
+.title-box .tab.active,.title-box .tab:hover {
+    color: #da966e;
+    border-bottom: 2px solid #907863;
+}
+.most-view .list-film .item .number-rank {
+    background: #c58560;
+}
+.breadcrumbs {
+    background: #181818;
+}
+#page-info .blockbody .title {
+    color: #ff9658;
+}
+.btn-download-link {
+
+}
+.btn-stream-link {
+
+}
+.dinfo .film-status {
+}
+#page-info .latest-episode>a:hover, .list-episode>a:hover, .list-episode>a.current,ul.server-backup li span.active, ul.server-backup li span:hover {
+    background: #c58560;
+}
+
+#player-video .details .name h1 a,#player-video .details .name span {
+    color: #da966e;
+}
+.film-note {
+    border: 1px solid #e8a568;
+    background: #181818;
+}
+#player-video .bottom-content {
+    background: #181818;
+}
+.mp-tips {
+    color: #fff;
+}
+#suggestions ul.autocomplete-list li span,#suggestions ul.autocomplete-list li strong,#suggestions ul.autocomplete-list li.last a {
+    color: #da966e;
+}
+.most-view .list-film .item a:hover, .list-film .film-item-ver .name a:hover {
+    color: #da966e;
+}
+.most-view .tabs .tab:hover {
+    background: #333;
+}
+#footer {
+    color: #848484;
+    background: #2d2d2d;
+}
+#footer .info {
+    background: #353535;
+}
+</style>
+</head>
+<body>
+<div id="page">
+<div id="header">
+<div class="container">
+
+<div class="top"><div class="left logo" style="box-shadow: 0px 1px 3px rgba(0,0,0,0.2);"><a href="/" title="Home"><img alt="motphim.net" title="Mọt phim" src="/motchill.png?v1.0.2" style="height: 60px;margin-bottom: -55px" /></a></div><div class="right-header"><div class="search-container relative"><form id="form_search" method="GET" action="javascript:do_search();"><input type="text" id="keyword" autocomplete="off" placeholder="V.d: tên phim, tên diễn viên..." /><i class="fa fa-search" onclick="$('#form_search').submit();"></i><div style="display: block;" id="suggestions" class="top-search-box"></div></form></div><div id="box-user-menu" class="actions-user right"><ul><li><i class="fa fa-sign-in"></i><a onclick="alert('Chức năng này đang cập nhật');return false;">Đăng nhập</a></li><li><i class="fa fa-users"></i><a onclick="alert('Chức năng này đang cập nhật');return false;">Đăng ký</a></li><li><i class="fa fa-bookmark-o"></i><a onclick="alert('Chức năng này đang cập nhật');return false;">Bookmark</a></li></ul></div><div class="suggest-dns"><p>Công cụ tìm kiếm phim.</p></div></div><div class="clear"></div></div>
+
+</div>
+<div class="main-menu">
+<ul class="container"><li class="menu-item active"><a title="" href="/">Trang chủ</a></li><li class="menu-item "><a>Thể loại</a><ul class="sub-menu span-4 absolute"><li class="sub-menu-item"><a title="Phim cổ trang - thần thoại" href="/the-loai/co-trang-than-thoai.html">Cổ Trang - Thần Thoại</a></li><li class="sub-menu-item"><a title="Phim võ thuật - kiếm hiệp" href="/the-loai/vo-thuat-kiem-hiep.html">Võ Thuật - Kiếm Hiệp</a></li><li class="sub-menu-item"><a title="Phim phiêu lưu - hành động" href="/the-loai/phieu-luu-hanh-dong.html">Phiêu Lưu - Hành Động</a></li><li class="sub-menu-item"><a title="Phim tâm lý - tình cảm" href="/the-loai/tam-ly-tinh-cam.html">Tâm Lý - Tình Cảm</a></li><li class="sub-menu-item"><a title="Phim hoạt hình" href="/the-loai/hoat-hinh.html">Hoạt Hình</a></li><li class="sub-menu-item"><a title="Phim khoa học - viễn tưởng" href="/the-loai/khoa-hoc-vien-tuong.html">Khoa Học - Viễn Tưởng</a></li><li class="sub-menu-item"><a title="Phim hình sự - chiến tranh" href="/the-loai/hinh-su-chien-tranh.html">Hình Sự - Chiến Tranh</a></li><li class="sub-menu-item"><a title="Phim tài liệu - khám phá" href="/the-loai/tai-lieu-kham-pha.html">Tài Liệu - Khám Phá</a></li><li class="sub-menu-item"><a title="Phim văn hóa - tâm linh" href="/the-loai/van-hoa-tam-linh.html">Văn Hóa - Tâm Linh</a></li><li class="sub-menu-item"><a title="Phim hài hước" href="/the-loai/hai-huoc.html">Hài Hước</a></li><li class="sub-menu-item"><a title="Phim thể thao - âm nhạc" href="/the-loai/the-thao-am-nhac.html">Thể Thao - Âm Nhạc</a></li><li class="sub-menu-item"><a title="Phim kinh dị - ma" href="/the-loai/kinh-di-ma.html">Kinh Dị - Ma</a></li><li class="sub-menu-item"><a title="Phim gia đình - học đường" href="/the-loai/gia-dinh-hoc-duong.html">Gia Đình - Học Đường</a></li><li class="sub-menu-item"><a title="Phim tv show" href="/the-loai/tv-show.html">TV Show</a></li><li class="sub-menu-item"><a title="Phim chiếu rạp" href="/the-loai/phim-chieu-rap.html">Phim Chiếu Rạp</a></li><li class="sub-menu-item"><a title="Phim bí ẩn - siêu nhiên" href="/the-loai/bi-an-sieu-nhien.html">Bí Ẩn - Siêu Nhiên</a></li><li class="sub-menu-item"><a title="Phim thuyết minh" href="/the-loai/thuyet-minh.html">Thuyết Minh</a></li><li class="sub-menu-item"><a title="Phim lồng tiếng" href="/the-loai/long-tieng.html">Lồng Tiếng</a></li><li class="sub-menu-item"><a title="Phim boy love" href="/the-loai/boy-love.html">Boy Love</a></li></ul></li><li class="menu-item "><a>Quốc gia</a><ul class="sub-menu span-2 absolute"><li class="sub-menu-item"><a title="Phim việt nam" href="/quoc-gia/viet-nam.html">Việt Nam</a></li><li class="sub-menu-item"><a title="Phim trung quốc" href="/quoc-gia/trung-quoc.html">Trung Quốc</a></li><li class="sub-menu-item"><a title="Phim hàn quốc" href="/quoc-gia/han-quoc.html">Hàn Quốc</a></li><li class="sub-menu-item"><a title="Phim thái lan" href="/quoc-gia/thai-lan.html">Thái Lan</a></li><li class="sub-menu-item"><a title="Phim hồng kông" href="/quoc-gia/hong-kong.html">Hồng Kông</a></li><li class="sub-menu-item"><a title="Phim âu mỹ" href="/quoc-gia/au-my.html">Âu - Mỹ</a></li><li class="sub-menu-item"><a title="Phim đài loan" href="/quoc-gia/dai-loan.html">Đài Loan</a></li><li class="sub-menu-item"><a title="Phim nhật bản" href="/quoc-gia/nhat-ban.html">Nhật Bản</a></li><li class="sub-menu-item"><a title="Phim ấn độ" href="/quoc-gia/an-do.html">Ấn Độ</a></li><li class="sub-menu-item"><a title="Phim canada" href="/quoc-gia/canada.html">Canada</a></li><li class="sub-menu-item"><a title="Phim quốc gia khác" href="/quoc-gia/khac.html">Quốc gia khác</a></li></ul></li><li class="menu-item "><a title="Phim mới" href="/phim-moi/">Phim mới</a><ul class="sub-menu absolute"><li class="sub-menu-item"><a title="Phim mới 2022" href="/phim-moi/?year=2022">Phim 2022</a></li><li class="sub-menu-item"><a title="Phim mới 2021" href="/phim-moi/?year=2021">Phim 2021</a></li><li class="sub-menu-item"><a title="Phim mới 2020" href="/phim-moi/?year=2020">Phim 2020</a></li><li class="sub-menu-item"><a title="Phim mới 2019" href="/phim-moi/?year=2019">Phim 2019</a></li><li class="sub-menu-item"><a title="Phim mới 2018" href="/phim-moi/?year=2018">Phim 2018</a></li><li class="sub-menu-item"><a title="Phim 2017" href="/phim-moi/?year=2017">Phim 2017</a></li><li class="sub-menu-item"><a title="Phim 2016" href="/phim-moi/?year=2016">Phim 2016</a></li><li class="sub-menu-item"><a title="Phim 2015" href="/phim-moi/?year=2015">Phim 2015</a></li><li class="sub-menu-item"><a title="Phim 2014" href="/phim-moi/?year=2014">Phim 2014</a></li><li class="sub-menu-item"><a title="Phim 2013" href="/phim-moi/?year=2013">Phim 2013</a></li></ul></li><li class="menu-item "><a title="Phim bộ" href="/phim-bo/">Phim bộ</a></li><li class="menu-item "><a title="Phim lẻ" href="/phim-le/">Phim lẻ</a></li><li class="menu-item "><a title="Phim thuyết minh" href="/phim-thuyet-minh.html">Phim thuyết minh</a></li><li class="menu-item "><a title="Phim chiếu rạp" href="/phim-chieu-rap.html">Phim chiếu rạp</a></li><li class="menu-item "><a title="TV Show" href="/the-loai/tv-show.html">TV Show</a></li></ul>
+</div>
+</div>
+<script>
+   function do_search() {
+		var keyword = $("#keyword").val();
+		if (keyword != '') {
+			keyword = keyword.replace(/\s+/g, '+');
+			keyword = keyword.toLowerCase();
+			window.location.href = '/tim-kiem/' + keyword + '/';
+		}
+		return false;
+	}
+	function mdo_search() {
+		var keyword = $("#mkeyword").val();
+		if (keyword != '') {
+			keyword = keyword.replace(/\s+/g, '+');
+			keyword = keyword.toLowerCase();
+			window.location.href = '/tim-kiem/' + keyword + '/';
+		}
+		return false;
+	}
+
+
+   $(document).ready(function(){
+       var searchValue = "";
+       var lastTimeQuery = null;
+       var lastQuery = "";
+       var timer = null;
+       var xTriggered = 0;
+       var frirstpos = 0;
+       var lastpos = 0;
+       var offs = 0;
+       function suggesstionFunc() {
+           $.ajax({
+               url: DC_URL+"/suggest.html",
+               data: {
+                   q: $("#keyword").val()
+               }
+           }).done(function(data) {
+               $("#suggestions").html(data).show();
+            });
+
+       }
+       $('#keyword').blur(function (event) {
+           setTimeout("$('#suggestions').fadeOut(50);", 300);
+       });
+       $('#keyword').keyup(function (e) {
+           if(e.keyCode == 38 || e.keyCode == 40 || e.keyCode == 13) {
+               if ($('#suggestions').css('display') != 'block')
+                   return;
+               var allItem = $('#suggestions li a');
+               var activeItem = $('#suggestions li a.active');
+               var totalItem = allItem.size();
+               var firstItem = allItem.eq(0);
+               var lastItem = allItem.eq(totalItem - 1);
+               var idx = allItem.index(activeItem);
+
+               if (!totalItem) {
+                   return;
+               }
+               switch (e.keyCode) {
+                   case 38:
+                       if (idx == -1) {
+                           lastItem.addClass('active');
+                       } else {
+                           var prevItem = allItem.eq(idx - 1);
+                           activeItem.removeClass('active');
+                           prevItem.addClass('active');
+                       }
+                       break;
+                   case 40:
+                       if (idx == -1) {
+                           firstItem.addClass('active');
+                       } else if (idx == (totalItem - 1)) {
+                           // Item cuoi cung
+                           activeItem.removeClass('active');
+                           firstItem.addClass('active');
+                       } else {
+                           var nextItem = allItem.eq(idx + 1);
+                           activeItem.removeClass('active');
+                           nextItem.addClass('active');
+                       }
+
+                       break;
+                   case 13:
+                       if (idx >= 0 && activeItem.attr('href') != "") {
+                           $(location).attr('href', activeItem.attr('href'));
+                       } else {
+                           return true;
+                       }
+               }
+               return false;
+           } else {
+               var timerCallback = function () {
+                   suggesstionFunc();
+               };
+               clearTimeout(timer);
+               timer = setTimeout(timerCallback, 200);
+           }
+
+       });
+       function msuggesstionFunc() {
+           $.ajax({
+               url: DC_URL+"/suggest.html",
+               data: {
+                   q: $("#mkeyword").val()
+               }
+           }).done(function(data) {
+                       $("#msuggestions").html(data).show();
+                   });
+
+       }
+ $('#mkeyword').keyup(function (e) {
+           if(e.keyCode == 38 || e.keyCode == 40 || e.keyCode == 13) {
+               if ($('#msuggestions').css('display') != 'block')
+                   return;
+               var allItem = $('#msuggestions li a');
+               var activeItem = $('#msuggestions li a.active');
+               var totalItem = allItem.size();
+               var firstItem = allItem.eq(0);
+               var lastItem = allItem.eq(totalItem - 1);
+               var idx = allItem.index(activeItem);
+
+               if (!totalItem) {
+                   return;
+               }
+               switch (e.keyCode) {
+                   case 38:
+                       if (idx == -1) {
+                           lastItem.addClass('active');
+                       } else {
+                           var prevItem = allItem.eq(idx - 1);
+                           activeItem.removeClass('active');
+                           prevItem.addClass('active');
+                       }
+                       break;
+                   case 40:
+                       if (idx == -1) {
+                           firstItem.addClass('active');
+                       } else if (idx == (totalItem - 1)) {
+                           // Item cuoi cung
+                           activeItem.removeClass('active');
+                           firstItem.addClass('active');
+                       } else {
+                           var nextItem = allItem.eq(idx + 1);
+                           activeItem.removeClass('active');
+                           nextItem.addClass('active');
+                       }
+
+                       break;
+                   case 13:
+                       if (idx >= 0 && activeItem.attr('href') != "") {
+                           $(location).attr('href', activeItem.attr('href'));
+                       } else {
+                           return true;
+                       }
+               }
+               return false;
+           } else {
+               var timerCallback = function () {
+                   msuggesstionFunc();
+               };
+               clearTimeout(timer);
+               timer = setTimeout(timerCallback, 200);
+           }
+
+       });
+
+   })
+</script>
+<script>//if(!Cookies.get('_d_id')){var xhr = new XMLHttpRequest();xhr.open("GET", '/collect', false );xhr.send(null);}</script>
+<div id="content">
+	<div class="main-content">
+   <div class="container">
+   <!--<div class="film-note" style="margin-bottom:20px;border: 1px solid #B8B612;padding: 5px;">Truy cập <b>Motphim.ORG</b> nếu bạn không được vào motphim.net <img src="/theme/images/hemoji.png" width="20px"/></div>-->
+      <div class="list-films film-hot">
+         <h2 class="title-box"><a class="tophot">Phim hot</a></h2>
+            <ul id="film_hot" class="relative">
+                     <li class="item" title="Luật Sư Thời Joseon"><span class="label">Tập 4 Vietsub</span><a href="/phim/luat-su-thoi-joseon-11099.html" title="Luật Sư Thời Joseon"><img class="img-film" title="Luật Sư Thời Joseon" alt="Luật Sư Thời Joseon" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fluat-su-thoi-joseon-11099.jpg%3F1680975628" /><i class="icon-play"></i></a><div class="text absolute"><span class="title" ><a href="/phim/luat-su-thoi-joseon-11099.html" title="Luật Sư Thời Joseon">Luật Sư Thời Joseon</a></span></div></li>    <li class="item" title="Là Yêu Mà Thôi"><span class="label">Full 38/38 Vietsub</span><a href="/phim/la-yeu-ma-thoi-11098.html" title="Là Yêu Mà Thôi"><img class="img-film" title="Là Yêu Mà Thôi" alt="Là Yêu Mà Thôi" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fla-yeu-ma-thoi-11098.jpg%3F1680975492" /><i class="icon-play"></i></a><div class="text absolute"><span class="title" ><a href="/phim/la-yeu-ma-thoi-11098.html" title="Là Yêu Mà Thôi">Là Yêu Mà Thôi</a></span></div></li>    <li class="item" title="Ẩn Danh (Phần 2)"><span class="label">Tập 14 Vietsub</span><a href="/phim/an-danh-phan-2-q3cd-10999.html" title="Ẩn Danh (Phần 2)"><img class="img-film" title="Ẩn Danh (Phần 2)" alt="Ẩn Danh (Phần 2)" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fan-danh-phan-2-10999.jpg%3F1680974263" /><i class="icon-play"></i></a><div class="text absolute"><span class="title" ><a href="/phim/an-danh-phan-2-q3cd-10999.html" title="Ẩn Danh (Phần 2)">Ẩn Danh (Phần 2)</a></span></div></li>    <li class="item" title="Luật Sư Ly Hôn Shin"><span class="label">Tập 11 Vietsub</span><a href="/phim/luat-su-ly-hon-shin-11051.html" title="Luật Sư Ly Hôn Shin"><img class="img-film" title="Luật Sư Ly Hôn Shin" alt="Luật Sư Ly Hôn Shin" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fluat-su-ly-hon-shin-11051.jpg%3F1680969451" /><i class="icon-play"></i></a><div class="text absolute"><span class="title" ><a href="/phim/luat-su-ly-hon-shin-11051.html" title="Luật Sư Ly Hôn Shin">Luật Sư Ly Hôn Shin</a></span></div></li>    <li class="item" title="Sơn Hà Chi Ảnh"><span class="label">Full 24/24 vietsub</span><a href="/phim/son-ha-chi-anh-11089.html" title="Sơn Hà Chi Ảnh"><img class="img-film" title="Sơn Hà Chi Ảnh" alt="Sơn Hà Chi Ảnh" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fson-ha-chi-anh-11089.jpg%3F1680951245" /><i class="icon-play"></i></a><div class="text absolute"><span class="title" ><a href="/phim/son-ha-chi-anh-11089.html" title="Sơn Hà Chi Ảnh">Sơn Hà Chi Ảnh</a></span></div></li>    <li class="item" title="Trường Nguyệt Tẫn Minh"><span class="label">Tập 10 Vietsub</span><a href="/phim/truong-nguyet-tan-minh-11140.html" title="Trường Nguyệt Tẫn Minh"><img class="img-film" title="Trường Nguyệt Tẫn Minh" alt="Trường Nguyệt Tẫn Minh" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Ftruong-nguyet-tan-minh-11140.jpg%3F1680950511" /><i class="icon-play"></i></a><div class="text absolute"><span class="title" ><a href="/phim/truong-nguyet-tan-minh-11140.html" title="Trường Nguyệt Tẫn Minh">Trường Nguyệt Tẫn Minh</a></span></div></li>    <li class="item" title="Đường Về Nhà"><span class="label">Full 30/30 Vietsub</span><span class="label-quality">Tập 27 Thuyết Minh</span><a href="/phim/duong-ve-nha-11068.html" title="Đường Về Nhà"><img class="img-film" title="Đường Về Nhà" alt="Đường Về Nhà" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fduong-ve-nha-11068.jpg%3F1680938188" /><i class="icon-play"></i></a><div class="text absolute"><span class="title" ><a href="/phim/duong-ve-nha-11068.html" title="Đường Về Nhà">Đường Về Nhà</a></span></div></li>    <li class="item" title="Lưỡng Bất Nghi"><span class="label">Tập 10 Vietsub</span><a href="/phim/luong-bat-nghi-11138.html" title="Lưỡng Bất Nghi"><img class="img-film" title="Lưỡng Bất Nghi" alt="Lưỡng Bất Nghi" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fluong-bat-nghi-11138.jpg%3F1680936089" /><i class="icon-play"></i></a><div class="text absolute"><span class="title" ><a href="/phim/luong-bat-nghi-11138.html" title="Lưỡng Bất Nghi">Lưỡng Bất Nghi</a></span></div></li>    <li class="item" title="Người Trong Mộng Xuân Khuê"><span class="label">Tập 26 Vietsub</span><a href="/phim/nguoi-trong-mong-xuan-khue-11085.html" title="Người Trong Mộng Xuân Khuê"><img class="img-film" title="Người Trong Mộng Xuân Khuê" alt="Người Trong Mộng Xuân Khuê" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fnguoi-trong-mong-xuan-khue-11085.jpg%3F1680774906" /><i class="icon-play"></i></a><div class="text absolute"><span class="title" ><a href="/phim/nguoi-trong-mong-xuan-khue-11085.html" title="Người Trong Mộng Xuân Khuê">Người Trong Mộng Xuân Khuê</a></span></div></li>    <li class="item" title="Ốc Đảo Thanh Xuân"><span class="label">Tập 10 Vietsub</span><a href="/phim/oc-dao-thanh-xuan-plfd-11053.html" title="Ốc Đảo Thanh Xuân"><img class="img-film" title="Ốc Đảo Thanh Xuân" alt="Ốc Đảo Thanh Xuân" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Foc-dao-thanh-xuan-11053.jpg%3F1680624569" /><i class="icon-play"></i></a><div class="text absolute"><span class="title" ><a href="/phim/oc-dao-thanh-xuan-plfd-11053.html" title="Ốc Đảo Thanh Xuân">Ốc Đảo Thanh Xuân</a></span></div></li>    <li class="item" title="Thanh Xuân Nguyệt Đàm"><span class="label">Tập 18 Vietsub</span><a href="/phim/thanh-xuan-nguyet-dam-10951.html" title="Thanh Xuân Nguyệt Đàm"><img class="img-film" title="Thanh Xuân Nguyệt Đàm" alt="Thanh Xuân Nguyệt Đàm" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fthanh-xuan-nguyet-dam-10951.jpg%3F1680624300" /><i class="icon-play"></i></a><div class="text absolute"><span class="title" ><a href="/phim/thanh-xuan-nguyet-dam-10951.html" title="Thanh Xuân Nguyệt Đàm">Thanh Xuân Nguyệt Đàm</a></span></div></li>    <li class="item" title="Khoa Học Về Tình Yêu"><span class="label">Full 24/24 vietsub</span><a href="/phim/khoa-hoc-ve-tinh-yeu-m1fq-11072.html" title="Khoa Học Về Tình Yêu"><img class="img-film" title="Khoa Học Về Tình Yêu" alt="Khoa Học Về Tình Yêu" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fkhoa-hoc-ve-tinh-yeu-11072.jpg%3F1680519394" /><i class="icon-play"></i></a><div class="text absolute"><span class="title" ><a href="/phim/khoa-hoc-ve-tinh-yeu-m1fq-11072.html" title="Khoa Học Về Tình Yêu">Khoa Học Về Tình Yêu</a></span></div></li>    <li class="item" title="Running Man"><span class="label">Tập 648 Vietsub</span><a href="/phim/running-man-j3sm-2.html" title="Running Man"><img class="img-film" title="Running Man" alt="Running Man" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Frunning-man-2.jpg%3F1680498551" /><i class="icon-play"></i></a><div class="text absolute"><span class="title" ><a href="/phim/running-man-j3sm-2.html" title="Running Man">Running Man</a></span></div></li>    <li class="item" title="Trùng Tử"><span class="label">Full 41/41 Vietsub + TM</span><a href="/phim/trung-tu-z4nl-10979.html" title="Trùng Tử"><img class="img-film" title="Trùng Tử" alt="Trùng Tử" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Ftrung-tu-10979.jpg%3F1680453919" /><i class="icon-play"></i></a><div class="text absolute"><span class="title" ><a href="/phim/trung-tu-z4nl-10979.html" title="Trùng Tử">Trùng Tử</a></span></div></li>    <li class="item" title="Đảo Hải Tặc"><span class="label">Tập 1056 Vietsub</span><a href="/phim/dao-hai-tac-718.html" title="Đảo Hải Tặc"><img class="img-film" title="Đảo Hải Tặc" alt="Đảo Hải Tặc" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fdao-hai-tac-718.jpg%3F1680413546" /><i class="icon-play"></i></a><div class="text absolute"><span class="title" ><a href="/phim/dao-hai-tac-718.html" title="Đảo Hải Tặc">Đảo Hải Tặc</a></span></div></li>    <li class="item" title="Sắc Màu Pháo Hoa Nhân Gian"><span class="label">Full 23/23 Vietsub</span><a href="/phim/sac-mau-phao-hoa-nhan-gian-11130.html" title="Sắc Màu Pháo Hoa Nhân Gian"><img class="img-film" title="Sắc Màu Pháo Hoa Nhân Gian" alt="Sắc Màu Pháo Hoa Nhân Gian" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fsac-mau-phao-hoa-nhan-gian-11130.jpg%3F1680366909" /><i class="icon-play"></i></a><div class="text absolute"><span class="title" ><a href="/phim/sac-mau-phao-hoa-nhan-gian-11130.html" title="Sắc Màu Pháo Hoa Nhân Gian">Sắc Màu Pháo Hoa Nhân Gian</a></span></div></li>    <li class="item" title="Chuyện Kể Hoa Lưu Ly"><span class="label">Full 24/24 vietsub</span><a href="/phim/chuyen-ke-hoa-luu-ly-11070.html" title="Chuyện Kể Hoa Lưu Ly"><img class="img-film" title="Chuyện Kể Hoa Lưu Ly" alt="Chuyện Kể Hoa Lưu Ly" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fchuyen-ke-hoa-luu-ly-11070.jpg%3F1680343166" /><i class="icon-play"></i></a><div class="text absolute"><span class="title" ><a href="/phim/chuyen-ke-hoa-luu-ly-11070.html" title="Chuyện Kể Hoa Lưu Ly">Chuyện Kể Hoa Lưu Ly</a></span></div></li>    <li class="item" title="Sát Thủ John Wick 4"><span class="label">HD CAM Vietsub</span><a href="/phim/sat-thu-john-wick-4-11119.html" title="Sát Thủ John Wick 4"><img class="img-film" title="Sát Thủ John Wick 4" alt="Sát Thủ John Wick 4" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fsat-thu-john-wick-4-11119.jpg%3F1680150083" /><i class="icon-play"></i></a><div class="text absolute"><span class="title" ><a href="/phim/sat-thu-john-wick-4-11119.html" title="Sát Thủ John Wick 4">Sát Thủ John Wick 4</a></span></div></li>    <li class="item" title="Tinh Lạc Ngưng Thành Đường"><span class="label">Full 40/40 Vietsub + TM</span><a href="/phim/tinh-lac-ngung-thanh-duong-8pu4-10992.html" title="Tinh Lạc Ngưng Thành Đường"><img class="img-film" title="Tinh Lạc Ngưng Thành Đường" alt="Tinh Lạc Ngưng Thành Đường" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Ftinh-lac-ngung-thanh-duong-10992.jpg%3F1680087601" /><i class="icon-play"></i></a><div class="text absolute"><span class="title" ><a href="/phim/tinh-lac-ngung-thanh-duong-8pu4-10992.html" title="Tinh Lạc Ngưng Thành Đường">Tinh Lạc Ngưng Thành Đường</a></span></div></li>                              </ul>
+
+         </div> <!-- End film hot-->
+         <div class="clear"></div>
+
+      <div class="left-content">
+		 <div class="list-films film-new" id="film-new">
+            <h2 class="title-box">
+               <a title="Phim bộ mới cập nhật" rel="nofollow" href="javascript:void(0)" data-id="1" class="tab active">Phim bộ mới cập nhật</a>
+               <a title="Phim lẻ mới cập nhật" rel="nofollow" href="javascript:void(0)" data-id="2" class="tab">Phim lẻ mới cập nhật</a>
+               <a title="Phim đã hoàn thành" rel="nofollow" href="javascript:void(0)" data-id="3" class="tab">Phim đã hoàn thành</a>
+            </h2>
+
+            <ul class="film-moi tab-content">
+                  <li class="item no-margin-left"><span class="label">Tập 4 Vietsub</span><a href="/phim/luat-su-thoi-joseon-11099.html" title="Luật Sư Thời Joseon"><img class="img-film" data-original="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fluat-su-thoi-joseon-11099.jpg%3F1680975628" title="Luật Sư Thời Joseon" alt="Luật Sư Thời Joseon" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fluat-su-thoi-joseon-11099.jpg%3F1680975628" /><i class="icon-play"></i></a><div class="name"><span><a href="/phim/luat-su-thoi-joseon-11099.html" title="Luật Sư Thời Joseon 2023">Luật Sư Thời Joseon 2023</a></span></div></li><li class="item "><span class="label">Full 38/38 Vietsub</span><a href="/phim/la-yeu-ma-thoi-11098.html" title="Là Yêu Mà Thôi"><img class="img-film" data-original="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fla-yeu-ma-thoi-11098.jpg%3F1680975492" title="Là Yêu Mà Thôi" alt="Là Yêu Mà Thôi" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fla-yeu-ma-thoi-11098.jpg%3F1680975492" /><i class="icon-play"></i></a><div class="name"><span><a href="/phim/la-yeu-ma-thoi-11098.html" title="Là Yêu Mà Thôi 2023">Là Yêu Mà Thôi 2023</a></span></div></li><li class="item "><span class="label">Tập 14 Vietsub</span><a href="/phim/an-danh-phan-2-q3cd-10999.html" title="Ẩn Danh (Phần 2)"><img class="img-film" data-original="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fan-danh-phan-2-10999.jpg%3F1680974263" title="Ẩn Danh (Phần 2)" alt="Ẩn Danh (Phần 2)" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fan-danh-phan-2-10999.jpg%3F1680974263" /><i class="icon-play"></i></a><div class="name"><span><a href="/phim/an-danh-phan-2-q3cd-10999.html" title="Ẩn Danh (Phần 2) 2023">Ẩn Danh (Phần 2) 2023</a></span></div></li><li class="item "><span class="label">Tập 12 Vietsub</span><a href="/phim/thieu-nu-nhin-thay-duyen-phan-11146.html" title="Thiếu Nữ Nhìn Thấy Duyên Phận"><img class="img-film" data-original="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fthieu-nu-nhin-thay-duyen-phan-11146.jpg%3F1680973382" title="Thiếu Nữ Nhìn Thấy Duyên Phận" alt="Thiếu Nữ Nhìn Thấy Duyên Phận" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fthieu-nu-nhin-thay-duyen-phan-11146.jpg%3F1680973382" /><i class="icon-play"></i></a><div class="name"><span><a href="/phim/thieu-nu-nhin-thay-duyen-phan-11146.html" title="Thiếu Nữ Nhìn Thấy Duyên Phận 2023">Thiếu Nữ Nhìn Thấy Duyên Phận 2023</a></span></div></li><li class="item no-margin-left"><span class="label">Full 8/8 Vietsub</span><a href="/phim/dung-dua-voi-lua-ozf1-11001.html" title="Đừng Đùa Với Lửa"><img class="img-film" data-original="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fdung-dua-voi-lua-11001.jpg%3F1680972922" title="Đừng Đùa Với Lửa" alt="Đừng Đùa Với Lửa" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fdung-dua-voi-lua-11001.jpg%3F1680972922" /><i class="icon-play"></i></a><div class="name"><span><a href="/phim/dung-dua-voi-lua-ozf1-11001.html" title="Đừng Đùa Với Lửa 2023">Đừng Đùa Với Lửa 2023</a></span></div></li><li class="item "><span class="label">Tập 6 Vietsub</span><a href="/phim/yeu-khong-hoi-tiec-11052.html" title="Yêu Không Hối Tiếc"><img class="img-film" data-original="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fyeu-khong-hoi-tiec-11052.jpg%3F1680971299" title="Yêu Không Hối Tiếc" alt="Yêu Không Hối Tiếc" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fyeu-khong-hoi-tiec-11052.jpg%3F1680971299" /><i class="icon-play"></i></a><div class="name"><span><a href="/phim/yeu-khong-hoi-tiec-11052.html" title="Yêu Không Hối Tiếc 2023">Yêu Không Hối Tiếc 2023</a></span></div></li><li class="item "><span class="label">Tập 8 Vietsub</span><a href="/phim/xieng-xich-trai-tim-11000.html" title="Xiềng Xích Trái Tim"><img class="img-film" data-original="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fxieng-xich-trai-tim-11000.jpg%3F1680970716" title="Xiềng Xích Trái Tim" alt="Xiềng Xích Trái Tim" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fxieng-xich-trai-tim-11000.jpg%3F1680970716" /><i class="icon-play"></i></a><div class="name"><span><a href="/phim/xieng-xich-trai-tim-11000.html" title="Xiềng Xích Trái Tim 2023">Xiềng Xích Trái Tim 2023</a></span></div></li><li class="item "><span class="label">Tập 11 Vietsub</span><a href="/phim/luat-su-ly-hon-shin-11051.html" title="Luật Sư Ly Hôn Shin"><img class="img-film" data-original="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fluat-su-ly-hon-shin-11051.jpg%3F1680969451" title="Luật Sư Ly Hôn Shin" alt="Luật Sư Ly Hôn Shin" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fluat-su-ly-hon-shin-11051.jpg%3F1680969451" /><i class="icon-play"></i></a><div class="name"><span><a href="/phim/luat-su-ly-hon-shin-11051.html" title="Luật Sư Ly Hôn Shin 2023">Luật Sư Ly Hôn Shin 2023</a></span></div></li><li class="item no-margin-left"><span class="label">Tập 23 Vietsub</span><a href="/phim/truyen-thuyet-tinh-yeu-11077.html" title="Truyền Thuyết Tình Yêu"><img class="img-film" data-original="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Ftruyen-thuyet-tinh-yeu-11077.jpg%3F1680968330" title="Truyền Thuyết Tình Yêu" alt="Truyền Thuyết Tình Yêu" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Ftruyen-thuyet-tinh-yeu-11077.jpg%3F1680968330" /><i class="icon-play"></i></a><div class="name"><span><a href="/phim/truyen-thuyet-tinh-yeu-11077.html" title="Truyền Thuyết Tình Yêu 2023">Truyền Thuyết Tình Yêu 2023</a></span></div></li><li class="item "><span class="label">Tập 8 Vietsub</span><a href="/phim/tran-phong-thap-tam-tai-11148.html" title="Trần Phong Thập Tam Tái"><img class="img-film" data-original="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Ftran-phong-thap-tam-tai-11148.jpg%3F1680956993" title="Trần Phong Thập Tam Tái" alt="Trần Phong Thập Tam Tái" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Ftran-phong-thap-tam-tai-11148.jpg%3F1680956993" /><i class="icon-play"></i></a><div class="name"><span><a href="/phim/tran-phong-thap-tam-tai-11148.html" title="Trần Phong Thập Tam Tái 2023">Trần Phong Thập Tam Tái 2023</a></span></div></li><li class="item "><span class="label">Tập 14 Vietsub</span><a href="/phim/chuyen-minh-ruc-ro-11135.html" title="Chuyển Mình Rực Rỡ"><img class="img-film" data-original="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fchuyen-minh-ruc-ro-11135.jpg%3F1680956877" title="Chuyển Mình Rực Rỡ" alt="Chuyển Mình Rực Rỡ" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fchuyen-minh-ruc-ro-11135.jpg%3F1680956877" /><i class="icon-play"></i></a><div class="name"><span><a href="/phim/chuyen-minh-ruc-ro-11135.html" title="Chuyển Mình Rực Rỡ 2023">Chuyển Mình Rực Rỡ 2023</a></span></div></li><li class="item "><span class="label">Full 24/24 vietsub</span><a href="/phim/son-ha-chi-anh-11089.html" title="Sơn Hà Chi Ảnh"><img class="img-film" data-original="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fson-ha-chi-anh-11089.jpg%3F1680951245" title="Sơn Hà Chi Ảnh" alt="Sơn Hà Chi Ảnh" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fson-ha-chi-anh-11089.jpg%3F1680951245" /><i class="icon-play"></i></a><div class="name"><span><a href="/phim/son-ha-chi-anh-11089.html" title="Sơn Hà Chi Ảnh 2023">Sơn Hà Chi Ảnh 2023</a></span></div></li><li class="item no-margin-left"><span class="label">Tập 10 Vietsub</span><a href="/phim/truong-nguyet-tan-minh-11140.html" title="Trường Nguyệt Tẫn Minh"><img class="img-film" data-original="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Ftruong-nguyet-tan-minh-11140.jpg%3F1680950511" title="Trường Nguyệt Tẫn Minh" alt="Trường Nguyệt Tẫn Minh" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Ftruong-nguyet-tan-minh-11140.jpg%3F1680950511" /><i class="icon-play"></i></a><div class="name"><span><a href="/phim/truong-nguyet-tan-minh-11140.html" title="Trường Nguyệt Tẫn Minh 2023">Trường Nguyệt Tẫn Minh 2023</a></span></div></li><li class="item "><span class="label">Tập 29 Vietsub</span><span class="label-quality">Tập 11 Thuyết Minh</span><a href="/phim/than-lan-ky-vuc-vo-song-chau-10461.html" title="Thần Lan Kỳ Vực Vô Song Châu"><img class="img-film" data-original="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fthan-lan-ky-vuc-vo-song-chau-10461.jpg%3F1680946503" title="Thần Lan Kỳ Vực Vô Song Châu" alt="Thần Lan Kỳ Vực Vô Song Châu" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fthan-lan-ky-vuc-vo-song-chau-10461.jpg%3F1680946503" /><i class="icon-play"></i></a><div class="name"><span><a href="/phim/than-lan-ky-vuc-vo-song-chau-10461.html" title="Thần Lan Kỳ Vực Vô Song Châu 2022">Thần Lan Kỳ Vực Vô Song Châu 2022</a></span></div></li><li class="item "><span class="label">Tập 72 Vietsub</span><a href="/phim/bang-hoa-ma-tru-9669.html" title="Băng Hỏa Ma Trù"><img class="img-film" data-original="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fbang-hoa-ma-tru-9669.jpg%3F1680944877" title="Băng Hỏa Ma Trù" alt="Băng Hỏa Ma Trù" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fbang-hoa-ma-tru-9669.jpg%3F1680944877" /><i class="icon-play"></i></a><div class="name"><span><a href="/phim/bang-hoa-ma-tru-9669.html" title="Băng Hỏa Ma Trù 2021">Băng Hỏa Ma Trù 2021</a></span></div></li><li class="item "><span class="label">Tập 254 Vietsub</span><a href="/phim/dau-la-dai-luc-4084.html" title="Đấu La Đại Lục"><img class="img-film" data-original="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fdau-la-dai-luc-4084.jpg%3F1680943309" title="Đấu La Đại Lục" alt="Đấu La Đại Lục" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fdau-la-dai-luc-4084.jpg%3F1680943309" /><i class="icon-play"></i></a><div class="name"><span><a href="/phim/dau-la-dai-luc-4084.html" title="Đấu La Đại Lục 2018">Đấu La Đại Lục 2018</a></span></div></li><li class="item no-margin-left"><span class="label">Tập 22 Vietsub</span><a href="/phim/ai-da-danh-cap-nu-hon-cua-toi-11112.html" title="Ai Đã Đánh Cắp Nụ Hôn Của Tôi"><img class="img-film" data-original="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fai-da-danh-cap-nu-hon-cua-toi-11112.jpg%3F1680943145" title="Ai Đã Đánh Cắp Nụ Hôn Của Tôi" alt="Ai Đã Đánh Cắp Nụ Hôn Của Tôi" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fai-da-danh-cap-nu-hon-cua-toi-11112.jpg%3F1680943145" /><i class="icon-play"></i></a><div class="name"><span><a href="/phim/ai-da-danh-cap-nu-hon-cua-toi-11112.html" title="Ai Đã Đánh Cắp Nụ Hôn Của Tôi 2022">Ai Đã Đánh Cắp Nụ Hôn Của Tôi 2022</a></span></div></li><li class="item "><span class="label">Tập 12 Vietsub</span><a href="/phim/toi-se-khong-thich-cau-dau-11147.html" title="Tôi Sẽ Không Thích Cậu Đâu"><img class="img-film" data-original="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Ftoi-se-khong-thich-cau-dau-11147.jpg%3F1680941287" title="Tôi Sẽ Không Thích Cậu Đâu" alt="Tôi Sẽ Không Thích Cậu Đâu" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Ftoi-se-khong-thich-cau-dau-11147.jpg%3F1680941287" /><i class="icon-play"></i></a><div class="name"><span><a href="/phim/toi-se-khong-thich-cau-dau-11147.html" title="Tôi Sẽ Không Thích Cậu Đâu 2023">Tôi Sẽ Không Thích Cậu Đâu 2023</a></span></div></li><li class="item "><span class="label">Full 30/30 Vietsub</span><span class="label-quality">Tập 27 Thuyết Minh</span><a href="/phim/duong-ve-nha-11068.html" title="Đường Về Nhà"><img class="img-film" data-original="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fduong-ve-nha-11068.jpg%3F1680938188" title="Đường Về Nhà" alt="Đường Về Nhà" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fduong-ve-nha-11068.jpg%3F1680938188" /><i class="icon-play"></i></a><div class="name"><span><a href="/phim/duong-ve-nha-11068.html" title="Đường Về Nhà 2023">Đường Về Nhà 2023</a></span></div></li><li class="item "><span class="label">Tập 5 Vietsub</span><a href="/phim/truong-hoc-khong-toan-11067.html" title="Trường Học Không Toán"><img class="img-film" data-original="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Ftruong-hoc-khong-toan-11067.jpg%3F1680937232" title="Trường Học Không Toán" alt="Trường Học Không Toán" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Ftruong-hoc-khong-toan-11067.jpg%3F1680937232" /><i class="icon-play"></i></a><div class="name"><span><a href="/phim/truong-hoc-khong-toan-11067.html" title="Trường Học Không Toán 2023">Trường Học Không Toán 2023</a></span></div></li>
+            </ul>
+
+            <ul class="film-le tab-content hide"></ul>
+            <ul class="film-bo tab-content hide"></ul>
+            <div class="loading hide"><img alt="loading" src="/theme/images/ajax-loader.gif" /></div>
+         </div>
+                        <div class="list-films film-new">
+                  <h2 class="title-box"><a class="tab active">Phim hoạt hình</a></h2>
+            <ul>
+                        <li class="item no-margin-left"><span class="label">Tập 29 Vietsub</span><span class="label-quality">Tập 11 Thuyết Minh</span><a href="/phim/than-lan-ky-vuc-vo-song-chau-10461.html" title="Thần Lan Kỳ Vực Vô Song Châu"><img class="img-film" data-original="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fthan-lan-ky-vuc-vo-song-chau-10461.jpg%3F1680946503" title="Thần Lan Kỳ Vực Vô Song Châu" alt="Thần Lan Kỳ Vực Vô Song Châu" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fthan-lan-ky-vuc-vo-song-chau-10461.jpg%3F1680946503" /><i class="icon-play"></i></a><div class="name"><span><a href="/phim/than-lan-ky-vuc-vo-song-chau-10461.html" title="Thần Lan Kỳ Vực Vô Song Châu 2022">Thần Lan Kỳ Vực Vô Song Châu 2022</a></span></div></li><li class="item "><span class="label">Tập 72 Vietsub</span><a href="/phim/bang-hoa-ma-tru-9669.html" title="Băng Hỏa Ma Trù"><img class="img-film" data-original="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fbang-hoa-ma-tru-9669.jpg%3F1680944877" title="Băng Hỏa Ma Trù" alt="Băng Hỏa Ma Trù" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fbang-hoa-ma-tru-9669.jpg%3F1680944877" /><i class="icon-play"></i></a><div class="name"><span><a href="/phim/bang-hoa-ma-tru-9669.html" title="Băng Hỏa Ma Trù 2021">Băng Hỏa Ma Trù 2021</a></span></div></li><li class="item "><span class="label">Tập 254 Vietsub</span><a href="/phim/dau-la-dai-luc-4084.html" title="Đấu La Đại Lục"><img class="img-film" data-original="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fdau-la-dai-luc-4084.jpg%3F1680943309" title="Đấu La Đại Lục" alt="Đấu La Đại Lục" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fdau-la-dai-luc-4084.jpg%3F1680943309" /><i class="icon-play"></i></a><div class="name"><span><a href="/phim/dau-la-dai-luc-4084.html" title="Đấu La Đại Lục 2018">Đấu La Đại Lục 2018</a></span></div></li><li class="item "><span class="label">Tập 1 Vietsub</span><a href="/phim/tien-si-da-phan-3-11150.html" title="Tiến Sĩ Đá (Phần 3)"><img class="img-film" data-original="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Ftien-si-da-phan-3-11150.jpg%3F1680882194" title="Tiến Sĩ Đá (Phần 3)" alt="Tiến Sĩ Đá (Phần 3)" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Ftien-si-da-phan-3-11150.jpg%3F1680882194" /><i class="icon-play"></i></a><div class="name"><span><a href="/phim/tien-si-da-phan-3-11150.html" title="Tiến Sĩ Đá (Phần 3) 2023">Tiến Sĩ Đá (Phần 3) 2023</a></span></div></li><li class="item no-margin-left"><span class="label">Tập 105 Vietsub</span><a href="/phim/the-gioi-hoan-my-9380.html" title="Thế Giới Hoàn Mỹ"><img class="img-film" data-original="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fthe-gioi-hoan-my-9380.jpg%3F1680858399" title="Thế Giới Hoàn Mỹ" alt="Thế Giới Hoàn Mỹ" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fthe-gioi-hoan-my-9380.jpg%3F1680858399" /><i class="icon-play"></i></a><div class="name"><span><a href="/phim/the-gioi-hoan-my-9380.html" title="Thế Giới Hoàn Mỹ 2021">Thế Giới Hoàn Mỹ 2021</a></span></div></li><li class="item "><span class="label">Full 12/12 Vietsub</span><a href="/phim/inu-ni-nattara-suki-na-hito-ni-hirowareta-10834.html" title="Inu ni Nattara Suki na Hito ni Hirowareta"><img class="img-film" data-original="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Finu-ni-nattara-suki-na-hito-ni-hirowareta-10834.jpg%3F1680802623" title="Inu ni Nattara Suki na Hito ni Hirowareta" alt="Inu ni Nattara Suki na Hito ni Hirowareta" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Finu-ni-nattara-suki-na-hito-ni-hirowareta-10834.jpg%3F1680802623" /><i class="icon-play"></i></a><div class="name"><span><a href="/phim/inu-ni-nattara-suki-na-hito-ni-hirowareta-10834.html" title="Inu ni Nattara Suki na Hito ni Hirowareta 2023">Inu ni Nattara Suki na Hito ni Hirowareta 2023</a></span></div></li><li class="item "><span class="label">Full 12/12 Vietsub</span><a href="/phim/hyouken-no-majutsushi-ga-sekai-wo-suberu-10837.html" title="Hyouken no Majutsushi ga Sekai wo Suberu"><img class="img-film" data-original="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fhyouken-no-majutsushi-ga-sekai-wo-suberu-10837.jpg%3F1680801194" title="Hyouken no Majutsushi ga Sekai wo Suberu" alt="Hyouken no Majutsushi ga Sekai wo Suberu" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fhyouken-no-majutsushi-ga-sekai-wo-suberu-10837.jpg%3F1680801194" /><i class="icon-play"></i></a><div class="name"><span><a href="/phim/hyouken-no-majutsushi-ga-sekai-wo-suberu-10837.html" title="Hyouken no Majutsushi ga Sekai wo Suberu 2023">Hyouken no Majutsushi ga Sekai wo Suberu 2023</a></span></div></li><li class="item "><span class="label">Full 12/12 Vietsub</span><a href="/phim/spy-kyoushitsu-10833.html" title="Spy Kyoushitsu"><img class="img-film" data-original="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fspy-kyoushitsu-10833.jpg%3F1680800737" title="Spy Kyoushitsu" alt="Spy Kyoushitsu" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fspy-kyoushitsu-10833.jpg%3F1680800737" /><i class="icon-play"></i></a><div class="name"><span><a href="/phim/spy-kyoushitsu-10833.html" title="Spy Kyoushitsu 2023">Spy Kyoushitsu 2023</a></span></div></li>
+            </ul>
+               </div>
+
+			   <div class="list-films film-new">
+                  <h2 class="title-box"><a class="tab active">Được yêu thích</a></h2>
+            <ul>
+                        <li class="item no-margin-left"><span class="label">Full 40/40 Vietsub + TM</span><a href="/phim/tinh-lac-ngung-thanh-duong-8pu4-10992.html" title="Tinh Lạc Ngưng Thành Đường"><img class="img-film" data-original="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Ftinh-lac-ngung-thanh-duong-10992.jpg%3F1680087601" title="Tinh Lạc Ngưng Thành Đường" alt="Tinh Lạc Ngưng Thành Đường" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Ftinh-lac-ngung-thanh-duong-10992.jpg%3F1680087601" /><i class="icon-play"></i></a><div class="name"><span><a href="/phim/tinh-lac-ngung-thanh-duong-8pu4-10992.html" title="Tinh Lạc Ngưng Thành Đường 2023">Tinh Lạc Ngưng Thành Đường 2023</a></span></div></li><li class="item "><span class="label">Full 24/24 Vietsub</span><a href="/phim/doi-voi-toi-anh-ay-la-nguoi-nguy-hiem-w9fj-10889.html" title="Đối Với Tôi Anh Ấy Là Người Nguy Hiểm"><img class="img-film" data-original="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fdoi-voi-toi-anh-ay-la-nguoi-nguy-hiem-10889.jpg%3F1674208112" title="Đối Với Tôi Anh Ấy Là Người Nguy Hiểm" alt="Đối Với Tôi Anh Ấy Là Người Nguy Hiểm" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fdoi-voi-toi-anh-ay-la-nguoi-nguy-hiem-10889.jpg%3F1674208112" /><i class="icon-play"></i></a><div class="name"><span><a href="/phim/doi-voi-toi-anh-ay-la-nguoi-nguy-hiem-w9fj-10889.html" title="Đối Với Tôi Anh Ấy Là Người Nguy Hiểm 2023">Đối Với Tôi Anh Ấy Là Người Nguy Hiểm 2023</a></span></div></li><li class="item "><span class="label">Full 36/36 Vietsub+TM</span><a href="/phim/nghe-noi-em-thich-toi-jdhd-10954.html" title="Nghe Nói Em Thích Tôi"><img class="img-film" data-original="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fnghe-noi-em-thich-toi-10954.jpg%3F1677941582" title="Nghe Nói Em Thích Tôi" alt="Nghe Nói Em Thích Tôi" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fnghe-noi-em-thich-toi-10954.jpg%3F1677941582" /><i class="icon-play"></i></a><div class="name"><span><a href="/phim/nghe-noi-em-thich-toi-jdhd-10954.html" title="Nghe Nói Em Thích Tôi 2023">Nghe Nói Em Thích Tôi 2023</a></span></div></li><li class="item "><span class="label">Full 8/8 Vietsub</span><a href="/phim/vinh-quang-trong-thu-han-phan-2-11003.html" title="Vinh Quang Trong Thù Hận (Phần 2)"><img class="img-film" data-original="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fvinh-quang-trong-thu-han-phan-2-11003.jpg%3F1678724601" title="Vinh Quang Trong Thù Hận (Phần 2)" alt="Vinh Quang Trong Thù Hận (Phần 2)" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fvinh-quang-trong-thu-han-phan-2-11003.jpg%3F1678724601" /><i class="icon-play"></i></a><div class="name"><span><a href="/phim/vinh-quang-trong-thu-han-phan-2-11003.html" title="Vinh Quang Trong Thù Hận (Phần 2) 2023">Vinh Quang Trong Thù Hận (Phần 2) 2023</a></span></div></li><li class="item no-margin-left"><span class="label">Full 40/40 Vietsub</span><a href="/phim/di-den-noi-co-gio-oyhx-10840.html" title="Đi Đến Nơi Có Gió"><img class="img-film" data-original="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fdi-den-noi-co-gio-10840.jpg%3F1674667238" title="Đi Đến Nơi Có Gió" alt="Đi Đến Nơi Có Gió" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fdi-den-noi-co-gio-10840.jpg%3F1674667238" /><i class="icon-play"></i></a><div class="name"><span><a href="/phim/di-den-noi-co-gio-oyhx-10840.html" title="Đi Đến Nơi Có Gió 2023">Đi Đến Nơi Có Gió 2023</a></span></div></li><li class="item "><span class="label">Full 30/30 Vietsub</span><span class="label-quality">Tập 27 Thuyết Minh</span><a href="/phim/duong-ve-nha-11068.html" title="Đường Về Nhà"><img class="img-film" data-original="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fduong-ve-nha-11068.jpg%3F1680938188" title="Đường Về Nhà" alt="Đường Về Nhà" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fduong-ve-nha-11068.jpg%3F1680938188" /><i class="icon-play"></i></a><div class="name"><span><a href="/phim/duong-ve-nha-11068.html" title="Đường Về Nhà 2023">Đường Về Nhà 2023</a></span></div></li><li class="item "><span class="label">Tập 10 Vietsub</span><a href="/phim/truong-nguyet-tan-minh-11140.html" title="Trường Nguyệt Tẫn Minh"><img class="img-film" data-original="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Ftruong-nguyet-tan-minh-11140.jpg%3F1680950511" title="Trường Nguyệt Tẫn Minh" alt="Trường Nguyệt Tẫn Minh" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Ftruong-nguyet-tan-minh-11140.jpg%3F1680950511" /><i class="icon-play"></i></a><div class="name"><span><a href="/phim/truong-nguyet-tan-minh-11140.html" title="Trường Nguyệt Tẫn Minh 2023">Trường Nguyệt Tẫn Minh 2023</a></span></div></li><li class="item "><span class="label">Tập 26 Vietsub</span><a href="/phim/nguoi-trong-mong-xuan-khue-11085.html" title="Người Trong Mộng Xuân Khuê"><img class="img-film" data-original="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fnguoi-trong-mong-xuan-khue-11085.jpg%3F1680774906" title="Người Trong Mộng Xuân Khuê" alt="Người Trong Mộng Xuân Khuê" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fnguoi-trong-mong-xuan-khue-11085.jpg%3F1680774906" /><i class="icon-play"></i></a><div class="name"><span><a href="/phim/nguoi-trong-mong-xuan-khue-11085.html" title="Người Trong Mộng Xuân Khuê 2023">Người Trong Mộng Xuân Khuê 2023</a></span></div></li>
+            </ul>
+               </div>
+
+
+                           </div> <!-- End left-content-->
+      <div class="right-content">
+		<!--<div class="block" style="margin: 0;padding: 20px 10px">
+	<div class="fb-page" data-href="https://www.facebook.com/pages.motphim.net/" data-hide-cover="false" data-show-facepile="true" data-show-posts="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/facebook"><a href="https://www.facebook.com/pages.motphim.net">Motphim Fanpage</a></blockquote></div></div>
+</div>-->
+<div class="trailer block">
+   <div class="caption">
+      <span class="uppercase">Phim sắp chiếu</span>
+   </div>
+   <ul class="list-film">
+			<li class="film-item-ver"><a href="/phim/dali-va-hoang-tu-ngo-ngao-11153.html" title="Dali Và Hoàng Tử Ngổ Ngáo"><img class="avatar" title="Dali Và Hoàng Tử Ngổ Ngáo" alt="Dali Và Hoàng Tử Ngổ Ngáo" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fdali-va-hoang-tu-ngo-ngao-11153.jpg%3F1680953897"/></a><div class="title"><p class="name"><a href="/phim/dali-va-hoang-tu-ngo-ngao-11153.html" title="Dali Và Hoàng Tử Ngổ Ngáo 2021">Dali Và Hoàng Tử Ngổ Ngáo</a></p><p class="real-name">2021</p></div><p class="star" data-rating="10"></p></li><li class="film-item-ver"><a href="/phim/chom-sao-may-man-cua-anh-11151.html" title="Chòm Sao May Mắn Của Anh"><img class="avatar" title="Chòm Sao May Mắn Của Anh" alt="Chòm Sao May Mắn Của Anh" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fchom-sao-may-man-cua-anh-11151.jpg%3F1680883396"/></a><div class="title"><p class="name"><a href="/phim/chom-sao-may-man-cua-anh-11151.html" title="Chòm Sao May Mắn Của Anh 2023">Chòm Sao May Mắn Của Anh</a></p><p class="real-name">2023</p></div><p class="star" data-rating="10"></p></li><li class="film-item-ver"><a href="/phim/huyen-mong-tinh-duyen-11145.html" title="Huyễn Mộng Tình Duyên"><img class="avatar" title="Huyễn Mộng Tình Duyên" alt="Huyễn Mộng Tình Duyên" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fhuyen-mong-tinh-duyen-11145.jpg%3F1680714480"/></a><div class="title"><p class="name"><a href="/phim/huyen-mong-tinh-duyen-11145.html" title="Huyễn Mộng Tình Duyên 2023">Huyễn Mộng Tình Duyên</a></p><p class="real-name">2023</p></div><p class="star" data-rating="10"></p></li><li class="film-item-ver"><a href="/phim/gui-cau-tinh-dau-cua-toi-11125.html" title="Gửi Cậu, Tình Đầu Của Tôi"><img class="avatar" title="Gửi Cậu, Tình Đầu Của Tôi" alt="Gửi Cậu, Tình Đầu Của Tôi" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fgui-cau-tinh-dau-cua-toi-11125.jpg%3F1680190894"/></a><div class="title"><p class="name"><a href="/phim/gui-cau-tinh-dau-cua-toi-11125.html" title="Gửi Cậu, Tình Đầu Của Tôi 2022">Gửi Cậu, Tình Đầu Của Tôi</a></p><p class="real-name">2022</p></div><p class="star" data-rating="9.6"></p></li><li class="film-item-ver"><a href="/phim/thao-thiet-ky-11101.html" title="Thao Thiết Ký"><img class="avatar" title="Thao Thiết Ký" alt="Thao Thiết Ký" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fthao-thiet-ky-11101.jpg%3F1679919954"/></a><div class="title"><p class="name"><a href="/phim/thao-thiet-ky-11101.html" title="Thao Thiết Ký 2023">Thao Thiết Ký</a></p><p class="real-name">2023</p></div><p class="star" data-rating="9.3"></p></li><li class="film-item-ver"><a href="/phim/ninh-an-nhu-mong-10442.html" title="Ninh An Như Mộng"><img class="avatar" title="Ninh An Như Mộng" alt="Ninh An Như Mộng" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fninh-an-nhu-mong-10442.jpg%3F1667374663"/></a><div class="title"><p class="name"><a href="/phim/ninh-an-nhu-mong-10442.html" title="Ninh An Như Mộng 2023">Ninh An Như Mộng</a></p><p class="real-name">2023</p></div><p class="star" data-rating="9.3"></p></li><li class="film-item-ver"><a href="/phim/ngoc-cot-dao-10296.html" title="Ngọc Cốt Dao"><img class="avatar" title="Ngọc Cốt Dao" alt="Ngọc Cốt Dao" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fngoc-cot-dao-10296.jpg%3F1655830726"/></a><div class="title"><p class="name"><a href="/phim/ngoc-cot-dao-10296.html" title="Ngọc Cốt Dao 2022">Ngọc Cốt Dao</a></p><p class="real-name">2022</p></div><p class="star" data-rating="8.9"></p></li><li class="film-item-ver"><a href="/phim/tan-than-dieu-dai-hiep-6426.html" title="Tân Thần Điêu Đại Hiệp"><img class="avatar" title="Tân Thần Điêu Đại Hiệp" alt="Tân Thần Điêu Đại Hiệp" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Ftan-than-dieu-dai-hiep-6426.jpg%3F1632385998"/></a><div class="title"><p class="name"><a href="/phim/tan-than-dieu-dai-hiep-6426.html" title="Tân Thần Điêu Đại Hiệp 2019">Tân Thần Điêu Đại Hiệp</a></p><p class="real-name">2019</p></div><p class="star" data-rating="6.9"></p></li><li class="film-item-ver"><a href="/phim/trieu-ca-6529.html" title="Triều Ca"><img class="avatar" title="Triều Ca" alt="Triều Ca" src="https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Ftrieu-ca-6529.jpg%3F1555435621"/></a><div class="title"><p class="name"><a href="/phim/trieu-ca-6529.html" title="Triều Ca 2019">Triều Ca</a></p><p class="real-name">2019</p></div><p class="star" data-rating="7.5"></p></li>
+
+   </ul>
+</div>
+<script src="/theme/js/jquery.raty.js"></script>
+<script>
+    $(document).ready(function(){
+        $('.star').raty({
+            readOnly : true,
+            numberMax : 5,
+            half  : true,
+            score: function() {
+                return $(this).attr('data-rating');
+            },
+			hints:["bad","poor","regular","good","gorgeous"],
+            space : false
+        });
+    })
+</script>
+<div class="most-view block">
+   <div class="caption">
+      <span class="uppercase">Trending</span>
+   </div>
+   <div class="tabs">
+      <div data-id="d" class="tab active">Ngày</div>
+      <div data-id="w" class="tab">Tuần</div>
+      <div data-id="m" class="tab">Tháng</div>
+   </div>
+   <div class="clear"></div>
+   <ul class="list-film">
+        <li class="item"><span class="number-rank absolute">1</span><span><a href="/phim/truong-nguyet-tan-minh-11140.html" title="Trường Nguyệt Tẫn Minh">Trường Nguyệt Tẫn Minh</a></span><div class="count_view">165 lượt quan tâm</div></li><li class="item"><span class="number-rank absolute">2</span><span><a href="/phim/an-danh-phan-2-q3cd-10999.html" title="Ẩn Danh (Phần 2)">Ẩn Danh (Phần 2)</a></span><div class="count_view">57 lượt quan tâm</div></li><li class="item"><span class="number-rank absolute">3</span><span><a href="/phim/la-yeu-ma-thoi-11098.html" title="Là Yêu Mà Thôi">Là Yêu Mà Thôi</a></span><div class="count_view">43 lượt quan tâm</div></li><li class="item"><span class="number-rank absolute">4</span><span><a href="/phim/nguoi-trong-mong-xuan-khue-11085.html" title="Người Trong Mộng Xuân Khuê">Người Trong Mộng Xuân Khuê</a></span><div class="count_view">39 lượt quan tâm</div></li><li class="item"><span class="number-rank absolute">5</span><span><a href="/phim/tinh-han-xan-lan-10298.html" title="Tinh Hán Xán Lạn">Tinh Hán Xán Lạn</a></span><div class="count_view">32 lượt quan tâm</div></li><li class="item"><span class="number-rank absolute">6</span><span><a href="/phim/duong-ve-nha-11068.html" title="Đường Về Nhà">Đường Về Nhà</a></span><div class="count_view">31 lượt quan tâm</div></li><li class="item"><span class="number-rank absolute">7</span><span><a href="/phim/dao-hai-tac-718.html" title="Đảo Hải Tặc">Đảo Hải Tặc</a></span><div class="count_view">27 lượt quan tâm</div></li><li class="item"><span class="number-rank absolute">8</span><span><a href="/phim/sac-mau-phao-hoa-nhan-gian-11130.html" title="Sắc Màu Pháo Hoa Nhân Gian">Sắc Màu Pháo Hoa Nhân Gian</a></span><div class="count_view">24 lượt quan tâm</div></li><li class="item"><span class="number-rank absolute">9</span><span><a href="/phim/ngoi-truong-xac-song-9785.html" title="Ngôi Trường Xác Sống">Ngôi Trường Xác Sống</a></span><div class="count_view">23 lượt quan tâm</div></li><li class="item"><span class="number-rank absolute">10</span><span><a href="/phim/nghe-noi-em-thich-toi-jdhd-10954.html" title="Nghe Nói Em Thích Tôi">Nghe Nói Em Thích Tôi</a></span><div class="count_view">21 lượt quan tâm</div></li>
+   </ul>
+</div> <!-- End most-view -->
+
+<script>
+   $(document).ready(function(){
+      $(".most-view .tab").click(function(){
+         var type = $(this).attr('data-id');
+         $(".most-view .list-film").html("");
+         $(".most-view .tab").removeClass('active');
+         $(this).addClass('active');
+         var data={'action':'top_viewed','type':type}
+         var success_fnc = function(data){
+            $(".most-view .list-film").html(data);
+         }
+         handleAjax(DC_URL+'/ajax.html','POST','',data,success_fnc);
+      })
+   })
+</script><div class="block tagcloud">
+   <div class="caption">
+      <span class="uppercase">Từ khoá nổi bật</span>
+   </div>
+   <ul class="list-tags">
+         </ul>
+</div>
+
+     </div>
+
+      <div class="clear"></div>
+   </div><!-- End main-content -->
+</div>
+<script type="text/javascript" src="/theme/js/owl.carousel.min.js"></script>
+<script>
+   $(document).ready(function() {
+      $("#film_hot").owlCarousel({
+         items:5,
+         itemsTablet: [700,3],
+         itemsMobile : [479,2],
+         scrollPerPage:true,
+         lazyLoad:true,
+         navigation : true, // Show next and prev buttons
+         slideSpeed : 800,
+         paginationSpeed : 400,
+         stopOnHover:true,
+         pagination:false,
+         autoPlay:8000,
+         navigationText : ['<i class="fa fa-angle-left"></i>','<i class="fa fa-angle-right"></i>'],
+
+      });
+
+
+      var first_img_w = $("#film_hot .img-film").eq(0).width();
+      var first_img_h = first_img_w*(1.42);
+      $("#film_hot .img-film").height(first_img_h);
+
+      first_img_w = $("#film-new .img-film").eq(0).width();
+      first_img_h = first_img_w*(1.42);
+
+      $("#film-new .img-film").height(first_img_h);
+
+
+      $("img.lazy").lazyload({
+       effect : "fadeIn"
+      });
+      $("#film-new .tab").click(function(){
+         var type = $(this).attr('data-id');
+         var target_class = '.film-moi';
+         if(type == 1){
+            target_class = '.film-moi';
+         }else if(type == 2){
+            target_class = '.film-le';
+         }else{
+            target_class = '.film-bo';
+         }
+         $("#film-new .loading").removeClass('hide');
+         $(".tab-content").addClass("hide");
+         $("#film-new .tab").removeClass('active');
+         $(this).addClass('active');
+         if($(target_class).html() == ''){
+            var data={'action':'home','type':type}
+            var success_fnc = function(data){
+               $(target_class).removeClass('hide');
+               $(target_class).html(data);
+               $(".loading").addClass('hide');
+               $(".img-film").height(first_img_h);
+
+            }
+            handleAjax(DC_URL+'/ajax.html','POST','',data,success_fnc);
+         }else{
+            $(target_class).removeClass('hide');
+            $(".loading").addClass('hide');
+         }
+
+
+
+      });
+
+   });
+</script></div><!-- content -->
+<a href="#" class="btn-contact" title="inbox"><i class="fa fa-envelope-o"></i></a><div id="footer"><div class="container"><div class="desc"><p><b><a href="/">Xem phim online</a></b> miễn phí chất lượng cao với phụ đề tiếng việt - thuyết minh - lồng tiếng. Mọt phim có nhiều thể loại phim phong phú, đặc sắc, nhiều bộ phim hay nhất - mới nhất.</p><p>Website motphim.net với giao diện trực quan, thuận tiện, tốc độ tải nhanh, thường xuyên cập nhật các bộ phim mới hứa hẹn sẽ đem lại những trải nghiệm tốt cho người dùng.</p></div><div class="info"><!--contact--><div class="column"><div class="heading">Quy định</div><ul><li><a href="#">Điều khoản chung</a></li><li><a href="#">Chính sách riêng tư</a></li></ul></div><div class="column"><div class="heading">Giới thiệu</div><ul><li><a href="#">Trang chủ</a></li><li><a href="#">Facebook</a></li></ul></div></div></div></div>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v7.0&appId=711081303025670&autoLogAppEvents=1"></script>
+</div>
+<script type="text/javascript" src="https://ax.mpapis.xyz/loader.js?v=1.0.1"></script>
+<script>
+var AxSugar = new AxSugar(adxSugar);
+if (sessionStorage && ['VN', 'PH', 'KH'].indexOf(sessionStorage.getItem("uc")) != -1) AxSugar.init();
+</script>
+<script>document.addEventListener("click",function(){try{$("#preload").length&&$("#preload").fadeOut(),$("#preload-2").length&&$("#preload-2").fadeOut()}catch(e){}});</script>
+</body>
+</html>
